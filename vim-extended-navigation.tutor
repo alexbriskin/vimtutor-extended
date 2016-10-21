@@ -1,0 +1,34 @@
+===============================================================================
+=    Welcome to the VIM Tutor Extended Navigation            Version 1.0      =
+===============================================================================
+
+Navigation is important for taking full advantage of Vim's capabilities.
+Mastering navigation is a major part of mastering text editing in Vim.
+
+*  This tutorial builds on the knowledge acquired in vimtutor.
+** More information may be available in :help motion.txt.
+
+# Lesson 1 - left-right motions
+For more information please see :help left-right-motions.
+
+# Lesson 2 - Up-down motions
+For more information please see :help up-down-motions.
+
+# Lesson 3 - Word motions
+For more information please see :help word-motions.
+
+# Lesson 4 - Text object motions
+For more information please see :help object-motions.
+
+# Lesson 5 - Various motions
+For more information please see :help various-motions.
+
+# Lesson 6 - Text object selection
+For more information please see :help object-select.
+
+# Lesson 7 - Marks
+For more information please see :help mark-motions.
+
+# Lesson 8 - Jumps
+For mark information please see :help jump-motions.
+
